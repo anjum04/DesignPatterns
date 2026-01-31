@@ -1,4 +1,4 @@
-package StrategyDesignPattern;
+package StrategyDesignPattern.ArithmeticExample;
 
 public class Multiplication implements Strategy {
 

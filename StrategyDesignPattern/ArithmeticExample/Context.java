@@ -1,4 +1,4 @@
-package StrategyDesignPattern;
+package StrategyDesignPattern.ArithmeticExample;
 
 public class Context {
 	Strategy strategy;

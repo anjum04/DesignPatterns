@@ -1,4 +1,4 @@
-package AbstractFactoryDesignPattern;
+package AbstractFactoryDesignPattern.WinMacExample;
 
 public interface GUIFactory {
 	Button createButton();

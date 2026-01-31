@@ -1,4 +1,4 @@
-package AbstractFactoryDesignPattern;
+package AbstractFactoryDesignPattern.WinMacExample;
 
 public class MacButton implements Button {
 

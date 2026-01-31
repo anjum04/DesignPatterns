@@ -1,4 +1,4 @@
-package AbstractFactoryDesignPattern;
+package AbstractFactoryDesignPattern.WinMacExample;
 
 public class MacFactory implements GUIFactory {
 

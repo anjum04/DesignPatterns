@@ -1,6 +1,6 @@
-package AbstractFactoryDesignPattern;
+package AbstractFactoryDesignPattern.WinMacExample;
 
-public class WinCheckbox implements Checkbox{
+public class WinCheckbox implements Checkbox {
 
 	@Override
 	public void render() {
